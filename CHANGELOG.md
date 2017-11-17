@@ -5,6 +5,13 @@ All notable changes to the "angular-gui" client application will be documented i
 
 * Support for custom shell commands
 
+## Version 0.3.0:
+
+* Feature: Open files from output panel in VSCode
+* Design: Highlight important command options
+* Design: Hide progress messages in output
+* Fix: Generated command scripts can be correctly executed
+
 ## Version 0.2.0:
 
 * Improved socket connection indicator
