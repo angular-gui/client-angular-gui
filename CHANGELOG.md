@@ -5,6 +5,11 @@ All notable changes to the "angular-gui" client application will be documented i
 
 * Support for custom shell commands
 
+# Version 0.3.1:
+
+* Fix: Module resolution for generate command
+* Client and Extension **minor** version must match (0.3.1 and 0.3.2 is OK)
+
 ## Version 0.3.0:
 
 * Feature: Open files from output panel in VSCode
