@@ -5,6 +5,9 @@ All notable changes to the "angular-gui" client application will be documented i
 
 * Support for custom shell commands
 
+# Version 0.4.7:
+* Design: Use overlay instead of popups for animated gifs
+
 # Version 0.4.5:
 * Design: Responsive design with phone and tablet layouts
 
