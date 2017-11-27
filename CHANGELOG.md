@@ -1,10 +1,6 @@
 # Change Log
 All notable changes to the "angular-gui" client application will be documented in this file.
 
-## Upcoming Changes
-
-* Support for custom shell commands
-
 # Version 0.4.7:
 * Design: Use overlay instead of popups for animated gifs
 
